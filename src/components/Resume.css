@@ -1,0 +1,26 @@
+div {
+    border-radius: 5px;
+    border: 5 5 5 5;
+}
+
+.header {
+    height: 40px;
+    width: 100%;
+    background-color: #ffcccc;
+    position: fixed;
+    z-index: 1;
+    
+}
+
+p,
+li{
+    font-family: 'cormorant Garamond';
+}
+
+.head {
+    font-size: 20px;
+}
+
+.h1 {
+    top: 5px;
+}
